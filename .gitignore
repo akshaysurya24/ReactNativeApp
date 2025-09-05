@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+server/node_modules/
+mobile/node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# dotenv environment files
+*.env
+
+# Build output
+dist/
+build/
+.expo/
+.expo-shared/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Expo / React Native
+.expo/
+.expo-shared/
+web-build/
